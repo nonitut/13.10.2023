@@ -1,0 +1,35 @@
+section{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+section div{
+    width: 38%;
+    padding-bottom: 20px;
+    
+}
+
+.sectionmain{
+    width: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+section h1{
+    margin-top: 30%;
+    font-size: 28px;
+    line-height: 32px;
+    font-family: "PT Sans Caption", sans-serif;
+    color: #333333;
+    
+}
+
+section p{
+    margin-top: 5px;
+    font-size: 20px;
+    line-height: 32px;
+    font-family: "PT Sans Caption", sans-serif;
+    color: rgb(0, 0, 0, 0.3);
+}
